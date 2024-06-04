@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|c:\\users\\aeros\\desktop\\csharp_finalproject\\proyecto final\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|c:\\users\\aeros\\desktop\\csharp_finalproject\\proyecto final\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|solutionrelative:productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|c:\\users\\aeros\\desktop\\csharp_finalproject\\proyecto final\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E972BC-7981-43D3-A674-08550D060CF6}|Proyecto Final.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Venta.cs",
-              "RelativeDocumentMoniker": "Venta.cs",
-              "ToolTip": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Venta.cs",
-              "RelativeToolTip": "Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:25.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoVendido.cs",
-              "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\ProductoVendido.cs",
-              "RelativeDocumentMoniker": "ProductoVendido.cs",
-              "ToolTip": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\ProductoVendido.cs",
-              "RelativeToolTip": "ProductoVendido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:43:33.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Producto.cs",
-              "RelativeDocumentMoniker": "Producto.cs",
-              "ToolTip": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Producto.cs",
-              "RelativeToolTip": "Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:30:02.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Usuario.cs",
-              "RelativeDocumentMoniker": "Usuario.cs",
-              "ToolTip": "C:\\Users\\aeros\\Desktop\\CSharp_FinalProject\\Proyecto Final\\Usuario.cs",
-              "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:26:42.048Z",
-              "EditorCaption": ""
             }
           ]
         }
